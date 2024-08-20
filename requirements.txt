@@ -73,6 +73,7 @@ pandas==2.2.2
     # via streamlit
 pillow==9.5.0
     # via
+    #   -r requirements.in
     #   matplotlib
     #   streamlit
 protobuf==4.25.4
